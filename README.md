@@ -1,0 +1,2 @@
+# PIAIC85205_Numpy_Task2
+PIAIC_Q2_Numpy_Task2
